@@ -18,7 +18,7 @@ I'm a Frontend Web Developer based in Connecticut with a background in Manufactu
 
 
 ## ⛓ My Links
-* LinkedIn: https://www.linkedin.com/in/nick-melanson-964261110
+* LinkedIn: https://www.linkedin.com/in/nick-melanson
 * Portfolio: https://melanson.tech
 
 ✉️ Get in contact with me 
