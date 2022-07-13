@@ -6,9 +6,9 @@ I'm a Frontend Web Developer based in Connecticut with a background in Manufactu
 
 **Languages:** JavaScript, HTML, CSS
 
-**Frameworks & Libraries:** React, jQuery, Bootstrap, Materialize, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Next.js
+**Frameworks & Libraries:** React, jQuery, Bootstrap, Tailwind, Materialize, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Next.js, GraphQL, Apollo, Jest
 
-**Tools:**  MongoDB, MySQL, Git, GitHub, Command Line, Heroku, Jest, VSCode 
+**Tools:**  MongoDB, MySQL, Git, GitHub, Command Line, Heroku, VSCode 
 
 ✨ Some fun things about me:
 * I'm a gamer
