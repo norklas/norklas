@@ -4,9 +4,9 @@ I'm a Full Stack Developer based in Connecticut with a background in Manufacturi
 
 ## 💻 My Tech Stack<br>
 
-**Languages:** JavaScript, HTML, CSS
+**Languages:** JavaScript, HTML, CSS, SQL, GraphQL, Node.js
 
-**Frameworks & Libraries:** React, jQuery, Bootstrap, Tailwind, Materialize, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Next.js, GraphQL, Apollo, Jest
+**Frameworks & Libraries:** React, jQuery, Bootstrap, Tailwind, Materialize, Express.js, Inquirer.js, File System, Sequelize, Handlebars.js, Next.js, Apollo, Jest
 
 **Tools:**  MongoDB, MySQL, Git, GitHub, Command Line, Heroku, VSCode 
 
