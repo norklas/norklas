@@ -1,6 +1,6 @@
 # Hello World, I'm Nick! 👋
 
-I'm a Frontend Web Developer based in Connecticut with a background in Manufacturing. Naturally curious, dedicated life-long learner, and welcoming to new challenges. Continuously looking to solve problems in efficient ways, while never overlooking the fine details.
+I'm a Full Stack Developer based in Connecticut with a background in Manufacturing. Naturally curious, dedicated life-long learner, and welcoming to new challenges. Continuously looking to solve problems in efficient ways, while never overlooking the fine details.
 
 ## 💻 My Tech Stack<br>
 
