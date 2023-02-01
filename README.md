@@ -22,5 +22,5 @@ I'm a Full Stack Developer based in Connecticut with a background in Manufacturi
 * Portfolio: https://melanson.tech
 
 ✉️ Get in contact with me 
-* Email: nickm890@gmail.com
+* Email: nickmelanson@proton.me
 * Discord: norklas#2081
